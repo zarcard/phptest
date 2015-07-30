@@ -1,6 +1,6 @@
 <?php
 phpinfo();
-echo haha;
-
+echo 'haha<br>';
+echo 'heihei';
 
 ?>
